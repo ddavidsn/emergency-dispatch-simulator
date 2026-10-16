@@ -1,0 +1,6 @@
+Number of available units: 3
+Incident 102 has high priority, the following description: "building fire" and is intervened
+Number of available units: 2
+Unit 12 is type B and is unavailable
+Incident 103 has medium priority, the following description: "road accident" and is queued
+Incident 102 was assigned to unit 11, and has the following status: "intervened"
