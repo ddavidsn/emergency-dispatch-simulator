@@ -58,4 +58,4 @@ Commands and response units are specified in the input file, following the cours
 
 The unchanged implementation **compiled with GCC** and matched **20 of 20** supplied course reference-output tests in a local review. The course tests are not redistributed here. This does not guarantee correctness for all inputs or constitute a memory-safety audit.
 
-Before publishing publicly, confirm your course's policy on sharing assignment solutions. This is an educational simulation, **not a real emergency-response system**.
+This is an educational simulation, **not a real emergency-response system**.
